@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/serviceTable/static/css/main.944042ba.css",
+    "main.js": "/serviceTable/static/js/main.8f8bc9d7.js",
+    "index.html": "/serviceTable/index.html",
+    "main.944042ba.css.map": "/serviceTable/static/css/main.944042ba.css.map",
+    "main.8f8bc9d7.js.map": "/serviceTable/static/js/main.8f8bc9d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944042ba.css",
+    "static/js/main.8f8bc9d7.js"
+  ]
+}
