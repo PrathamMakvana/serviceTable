@@ -3,7 +3,7 @@ import axios from "axios";
 export const fetchServices = async (page) => {
   const url = `http://20.193.149.47:2242/salons/service/?page=${page}`;
   try {
-    const response = await axios.get(url);
+    const response = await axios.get(url, { withCredentials: true });
     console.log("🚀 response --->", response);
     return response.data;
   } catch (error) {
